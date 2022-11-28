@@ -1,6 +1,8 @@
 """
 Monte Carlo Lab
 
+The program both prints to the screen, and writes to another file. The results are the same.
+
 
 """
 
