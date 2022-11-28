@@ -1,0 +1,4 @@
+SciPy Linear Regression Solution
+slope     :  0.366620
+intercept :  -0.063719
+rvalue    :  0.997805

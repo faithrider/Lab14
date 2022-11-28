@@ -1,0 +1,9 @@
+Notice that the rvalue is very close to 1, and the slope is very close to the number 1/e = 0.36787944117.
+We leave this as an optional exercise to show why that is so.
+
+
+The rvalue is close to 1 since it is a very strong linear relationship.
+
+You can conclude that the expected number of empty bins when N balls are thrown into N bins is (1/e)*N.
+
+The intercept is a factor that comes from doing random trials/since r is not 1 (can generally be ignored).
